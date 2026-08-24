@@ -1,0 +1,115 @@
+{
+  "people": [
+    {
+      "id": "david-sassoon",
+      "name": "David Sassoon",
+      "community": "baghdadi-jews",
+      "field": "Business and philanthropy",
+      "note": "Of the family that arrived in Bombay in 1832. Built institutions in the city that still serve Indian society.",
+      "sources": [
+        "pib-jews",
+        "wjc-india"
+      ]
+    },
+    {
+      "id": "jfr-jacob",
+      "name": "Lieutenant General J. F. R. Jacob",
+      "community": "baghdadi-jews",
+      "field": "Armed forces",
+      "note": "Recognised for his contribution during the 1971 war with Pakistan.",
+      "sources": [
+        "pib-jews"
+      ]
+    },
+    {
+      "id": "walter-kaufmann",
+      "name": "Walter Kaufmann",
+      "community": null,
+      "field": "Music",
+      "note": "Composed the signature tune for All India Radio.",
+      "sources": [
+        "pib-jews"
+      ]
+    },
+    {
+      "id": "reuben-david",
+      "name": "Doctor Reuben David",
+      "community": null,
+      "field": "Natural history",
+      "note": "Founder of the Kankaria Zoo in Ahmedabad.",
+      "sources": [
+        "pib-jews"
+      ]
+    },
+    {
+      "id": "david-abraham",
+      "name": "David Abraham Cheulkar",
+      "community": "bene-israel",
+      "field": "Cinema",
+      "note": "An actor who became a household name across the country.",
+      "sources": [
+        "pib-jews"
+      ]
+    },
+    {
+      "id": "edwyn-myers",
+      "name": "Edwyn Myers",
+      "community": null,
+      "field": "Cinema",
+      "note": "Gave shape to the Films Division of India.",
+      "sources": [
+        "pib-jews"
+      ]
+    },
+    {
+      "id": "jam-saheb",
+      "name": "The Jam Saheb of Nawanagar",
+      "community": null,
+      "field": "Refuge during the Second World War",
+      "note": "Offered refuge to Polish children, including Jewish children, during the Holocaust.",
+      "sources": [
+        "pib-jews"
+      ]
+    },
+    {
+      "id": "eliyau-bezalel",
+      "name": "Eliyau Bezalel",
+      "community": null,
+      "field": "Pravasi Bharatiya Samman, 2005",
+      "note": "Recipient of the Pravasi Bharatiya Samman in 2005.",
+      "sources": [
+        "eoi-telaviv"
+      ]
+    },
+    {
+      "id": "munir-ansari",
+      "name": "Sheikh Munir Ansari",
+      "community": null,
+      "field": "Pravasi Bharatiya Samman, 2011",
+      "note": "Recipient of the Pravasi Bharatiya Samman in 2011.",
+      "sources": [
+        "eoi-telaviv"
+      ]
+    },
+    {
+      "id": "lael-best",
+      "name": "Doctor Lael A. Best",
+      "community": null,
+      "field": "Pravasi Bharatiya Samman, 2017",
+      "note": "Recipient of the Pravasi Bharatiya Samman in 2017.",
+      "sources": [
+        "eoi-telaviv"
+      ]
+    },
+    {
+      "id": "reena-pushkarna",
+      "name": "Reena Vinod Pushkarna",
+      "community": null,
+      "field": "Pravasi Bharatiya Samman, 2023",
+      "note": "Recipient of the Pravasi Bharatiya Samman in 2023.",
+      "sources": [
+        "eoi-telaviv"
+      ]
+    }
+  ]
+}
