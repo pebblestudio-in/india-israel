@@ -1,7 +1,15 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-09-30 17:12 UTC",
-  "items": [],
+  "generated": "2026-09-30 21:39 UTC",
+  "items": [
+    {
+      "title": "Israeli PM hails Indian pilot wounded in diverted flydubai flight",
+      "link": "https://www.thehindu.com/news/international/israeli-pm-hails-indian-pilot-wounded-in-diverted-flydubai-flight/article71530244.ece",
+      "date": "2026-09-30",
+      "source": "The Hindu, International",
+      "tier": "press"
+    }
+  ],
   "feedsTried": [
     "Press Information Bureau",
     "The Hindu, International",
