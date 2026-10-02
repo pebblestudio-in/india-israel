@@ -1,6 +1,6 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-10-02 03:05 UTC",
+  "generated": "2026-10-02 11:33 UTC",
   "items": [
     {
       "title": "Israeli PM hails Indian pilot wounded in diverted flydubai flight",
