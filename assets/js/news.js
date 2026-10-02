@@ -1,6 +1,6 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-10-02 17:01 UTC",
+  "generated": "2026-10-02 21:34 UTC",
   "items": [
     {
       "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
