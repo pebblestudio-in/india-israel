@@ -1,6 +1,6 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-10-03 20:20 UTC",
+  "generated": "2026-10-04 03:21 UTC",
   "items": [
     {
       "title": "Netanyahu invites ‘true hero’ Indian flydubai captain to Israel",
