@@ -1,7 +1,15 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-10-15 20:41 UTC",
-  "items": [],
+  "generated": "2026-10-16 02:11 UTC",
+  "items": [
+    {
+      "title": "Watch: Netanyahu calls Indian FlyDubai pilot Smit Machchhar ‘hero of the entire world’",
+      "link": "https://www.thehindu.com/videos/shorts/watch-netanyahu-calls-indian-flydubai-pilot-smit-machchhar-hero-of-the-entire-world/article71543260.ece",
+      "date": "2026-10-15",
+      "source": "The Hindu, International",
+      "tier": "press"
+    }
+  ],
   "feedsTried": [
     "Press Information Bureau",
     "The Hindu, International",
