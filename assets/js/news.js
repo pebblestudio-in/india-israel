@@ -1,6 +1,6 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-10-30 21:47 UTC",
+  "generated": "2026-10-31 03:13 UTC",
   "items": [
     {
       "title": "Israel elections: Understanding how Knesset polls work vs India’s system",
