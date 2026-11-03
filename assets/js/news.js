@@ -1,6 +1,6 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-11-03 13:14 UTC",
+  "generated": "2026-11-03 22:40 UTC",
   "items": [
     {
       "title": "India, Israel vote against UNGA draft on regional conventional arms control",
