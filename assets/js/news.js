@@ -1,6 +1,6 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-11-06 22:30 UTC",
+  "generated": "2026-11-07 03:42 UTC",
   "items": [],
   "feedsTried": [
     "Press Information Bureau",
