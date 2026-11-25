@@ -1,6 +1,6 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-11-24 16:41 UTC",
+  "generated": "2026-11-25 01:44 UTC",
   "items": [
     {
       "title": "India and Israel: Cut from different cloths",
@@ -21,7 +21,6 @@ window.NEWS_DATA = {
   ],
   "feedsOk": [
     "The Hindu, International",
-    "Indian Express, World",
     "Times of India, World",
     "The Jerusalem Post",
     "BBC World"
@@ -29,6 +28,10 @@ window.NEWS_DATA = {
   "feedsFailed": [
     {
       "name": "Press Information Bureau",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Indian Express, World",
       "reason": "HTTP 403"
     },
     {
